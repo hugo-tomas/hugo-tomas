@@ -47,13 +47,8 @@ Welcome to my GitHub profile! I'm Hugo Alexandre, a recent Master's graduate in 
 
 ### 📫 Let's Connect
 
-- [LinkedIn](http://www.linkedin.com/in/hugo-tomas-alexandre)  
-- [Email](mailto:hugotomas.2001@outlook.pt)
-
-### 📊 GitHub Stats
-
-![Hugo Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugo-tomas&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-tomas&layout=compact&theme=default)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/hugo-tomas-alexandre)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:hugotomas.2001@outlook.pt)
 
 ---
 
