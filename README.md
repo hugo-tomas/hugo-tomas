@@ -4,14 +4,20 @@ Welcome to my GitHub profile! I'm Hugo Alexandre, a recent Master's graduate in 
 
 ### 🛠️ Technical Skills
 
-- **Programming Languages:** Python, Matlab, Java, R, C/C++ (Arduino), SQL
+**Languages:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
+
 - **Specializations:**
   - Machine Learning and Computer Vision
   - Data Analysis and Data Science
   - Medical Image Processing
   - Biological Modelling
+  - Medical Robotics
 
-### 🌟 Projects
+### 🌟 Main Projects
 
 - **Master's Dissertation:** Exploring imputation techniques for reconstructing CT lung images using generative models, aimed at improving the reuse of data compromised by medical artifacts.
 - **Bachelor's Project:** Investigated green tea extract as an adjuvant in chemotherapy for breast and colon cancer models.
