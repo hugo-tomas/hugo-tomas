@@ -31,6 +31,6 @@ Welcome to my GitHub profile! I'm Hugo Alexandre, a recent Master's graduate in 
 **Thanks for visiting! Feel free to explore my repositories and connect to discuss potential collaborations or projects.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](http://www.linkedin.com/in/hugo-tomas-alexandre)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:hugotomas.2001@outlook.pt)
+[![Email](https://img.shields.io/badge/Email-blue?logo=outlook&style=for-the-badge)](mailto:hugotomas.2001@outlook.pt)
 
 ---
