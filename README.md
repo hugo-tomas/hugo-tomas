@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Hugo Alexandre, a recent Master's graduate in 
 
 ### 🧠 Technical Skills
 
-**Languages:**
+**Programming Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=matlab&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
